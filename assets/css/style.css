@@ -1,0 +1,66 @@
+
+
+body {
+    background-color: #ffffff;
+}
+
+h1 {
+	background-color:#4aaaa5;
+	color:#ffffff;
+	height:50px;
+	width:250px;
+	padding-top: 10px;
+	padding-left: 20px;
+	 }
+
+.bio {
+	width: 600px;
+	height:400px;
+	background:#eee;
+
+	position:fixed;
+
+	
+}
+.profile-pic {
+	width:100px;
+	height:140px;
+	float:left;
+	margin: 10px;
+}
+.connectWithMe {
+
+	background: #eee;
+	width: 220px;
+	height:145px;
+	color:#4aaaa5;
+	text-align: center;
+	
+	margin-right:50px;
+	padding-top: 15px;
+	float:right;
+	font-family: 'Georgia', Times, Times New Roman, serif;
+}
+.connectImage {
+
+	height: 50px;
+	width: 50px;
+}
+
+.copyright {
+	color: #ffffff;
+	background: gray;
+	width: 100%;
+	text-align: center;
+	position:fixed;
+	bottom:0px;
+	height:80px;
+	font-size: 10px;
+
+}
+.footerText {
+
+}
+
+
+
