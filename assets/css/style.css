@@ -13,11 +13,30 @@ h1 {
 	padding-left: 20px;
 	 }
 
+.header {
+	background-color:#eee;
+	height: 90px;
+	position:fixed;
+	top:0;
+	left:0;
+	width:100%;
+
+}
+.headername {
+
+	background-color:#4aaaa5;
+}
+.tabLinks {
+	float:right;
+}
+
+
 .bio {
 	width: 600px;
-	height:400px;
+	height:300px;
 	background:#eee;
 	position:fixed;
+	top:150px;
 	margin-left: 80px;
 
 	
