@@ -17,8 +17,8 @@ h1 {
 	width: 600px;
 	height:400px;
 	background:#eee;
-
 	position:fixed;
+	margin-left: 80px;
 
 	
 }
@@ -35,7 +35,6 @@ h1 {
 	height:145px;
 	color:#4aaaa5;
 	text-align: center;
-	
 	margin-right:50px;
 	padding-top: 15px;
 	float:right;
@@ -59,7 +58,10 @@ h1 {
 
 }
 .footerText {
-
+	background: #eee;
+	position:absolute;
+	margin-left: 50%;
+	bottom: 0;
 }
 
 
