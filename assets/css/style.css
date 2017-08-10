@@ -1,8 +1,5 @@
 
 
-body {
-    background-color: #ffffff;
-}
 
 h1 {
 	background-color:#4aaaa5;
@@ -12,6 +9,7 @@ h1 {
 	padding-top: 10px;
 	padding-left: 20px;
 	 }
+
 
 .header {
 	background-color:#eee;
@@ -24,13 +22,19 @@ h1 {
 }
 .headername {
 
+	
 	background-color:#4aaaa5;
+	position: absolute;
+	top:0;
+	right:-80;
 }
 
 .tabLinks {
-	position:relative;
+	position:fixed;
 	right: 100px;
-	top: -50px;
+	top: 50px;
+
+
 }
 
 .pageLink{
@@ -98,6 +102,28 @@ h1 {
  	position:absolute;
 	top:150px;
 	margin-left: 80px;
+
 	padding:10px;
 }
+
+.submit {
+	background-color:#4aaaa5;
+}
+
+.nameText {
+	width:75%;
+}
+
+.emailText {
+	width:75%;
+}
+
+.messageText {
+	height:200px;
+	width:75%;
+}
+.formItems {
+	margin-left:10px;
+}
+
 
