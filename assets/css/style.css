@@ -26,23 +26,30 @@ h1 {
 
 	background-color:#4aaaa5;
 }
+
 .tabLinks {
+	position:relative;
+	right: 100px;
+	top: -50px;
+}
+
+.pageLink{
 	float:right;
 }
 
 
 .bio {
-	width: 600px;
-	height:300px;
+	width: 500px;
+	height:320px;
 	background:#eee;
 	position:fixed;
 	top:150px;
 	margin-left: 80px;
-
+	padding:10px;
 	
 }
 .profile-pic {
-	width:100px;
+	width:90px;
 	height:140px;
 	float:left;
 	margin: 10px;
@@ -51,11 +58,12 @@ h1 {
 
 	background: #eee;
 	width: 220px;
-	height:145px;
+	height:125px;
 	color:#4aaaa5;
 	text-align: center;
 	margin-right:50px;
-	padding-top: 15px;
+	margin-top:150px;
+	padding-top:20px;
 	float:right;
 	font-family: 'Georgia', Times, Times New Roman, serif;
 }
@@ -72,16 +80,24 @@ h1 {
 	text-align: center;
 	position:fixed;
 	bottom:0px;
-	height:80px;
+	height:50px;
 	font-size: 10px;
 
 }
 .footerText {
-	background: #eee;
-	position:absolute;
-	margin-left: 50%;
+	
+	position:fixed;
+	margin-left: 45%;
 	bottom: 0;
 }
 
-
+.contactForm {
+	width: 500px;
+	height:400px;
+	background:#eee;
+ 	position:absolute;
+	top:150px;
+	margin-left: 80px;
+	padding:10px;
+}
 
